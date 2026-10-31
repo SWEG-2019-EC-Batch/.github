@@ -15,7 +15,7 @@
 - [Install CodeBlocks ( IDE 20.03 ) with MinGW for C and C++](https://www.youtube.com/watch?v=GWJqsmitR2I)
 - [Basics of Git Hub](https://github.com/SwEg21-03-07-FoP/Development-Tools/blob/main/GitHub_Basics.md)
 - [Git & GitHub & GitHub flow](https://github.com/SwEg21-03-07-FoP/Collaboration-Tools/blob/main/Git-and-Github.md)
-- [Working with GitHub in VS Code](./Link_VScode_with_GitHub.md)
+- [Working with GitHub in VS Code](https://github.com/SwEg21-03-07-FoP/Development-Tools/blob/main/Link_VScode_with_GitHub.md)
   
 - [Learn Computer Programming Faster](https://github.com/SwEg21-03-07-FoP/Learn-Computer-Programming-Faster)
 - [Coding Standards and Best Practices](https://github.com/SwEg21-03-07-FoP/Coding-Standards-and-Best-practices)
