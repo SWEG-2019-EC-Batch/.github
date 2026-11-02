@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1><b> Fundamentals of Programming I </b></h1>
-  <h2><b> <a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution"> Practical Exercises Solution and Summary Note</a></b></h2>
+  <h2><b> <a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution"> Lecture Note and Practical Exercises</a></b></h2>
 </div>
 
 
@@ -23,14 +23,20 @@
 
 - [How to Become Effective in my Learning, and Career](https://github.com/SwEg21-03-07-FoP/Professional-skills) 
   
-### 📖 Chapter-1: Basics of program development
+### Chapter-1: Basics of Program Development
+
+#### 📝 <a href="https://sweg21-03-07-fop.github.io/FoP_I_Chapter_One/"> Lecture Note </a>
+#### 💻 <a href="#"> Practice Exercises </a>  
 <ul>
-  <li><a href="https://sweg21-03-07-fop.github.io/FoP_I_Chapter_One/"> Lecture Note </a></li> 
-  <li><a href="#">Exercise 1</a></li>
-  <li><a href="#">Exercise 2</a></li>
+  <li><a href="https://github.com/SwEg21-03-07-FoP/FoP_I_Chapter_One/blob/main/Flowchart_Practice_Exercises.pdf">Algorithm Design </a></li>
+  <li><a href="https://github.com/SwEg21-03-07-FoP/FoP_I_Chapter_One/blob/main/Flowchart_Exercises_Solution.md">Exercises Solution</a></li>
 </ul>
 
-### 📖 Chapter-2: Basics of Programming Constructor
+#### ❓<a href="https://github.com/SwEg21-03-07-FoP/FoP_I_Chapter_One/blob/main/Revision_Quiz_MCQ.pdf"> Revision Quiz - MCQ </a>  
+
+### Chapter-2: Basics of Programming Constructor
+
+##### Practical Exercises
 <ul>
    <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-2%20Basic%20Programming%20Constructors/1%20BMI%20calculator%20V1.cpp">Exercise 2.1 - BMI Calculator V1</a></li>
    <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-2%20Basic%20Programming%20Constructors/2%20alphabet%20case%20convertor.cpp">Exercise 2.2 - Alphabet Case Convertor.</a></li>
@@ -41,9 +47,9 @@
   <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-2%20Basic%20Programming%20Constructors/6%20temprature%20convertor.cpp">Exercise 2.7 - Temprature Convertor </a></li>
 </ul>
 
-### 📖 Chapter-3: Flow Controls
+### Chapter-3: Flow Controls
 
-#### <a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.0%20summary%20of%20chapter.md">Summary of the Chapter </a>
+#### <a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.0%20summary%20of%20chapter.md">Chapter Summary Note </a>
 
 ##### Exercise 3.1
 
@@ -86,7 +92,7 @@
       <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.14 factorial.cpp">Factorial: using all types of loop </a></li>
 </ul>
 
-### 📖 Chapter-4: Array and Strings
+### Chapter-4: Array and Strings
 
  ##### Activity 4.1: Array and String Initialization
  <ul>
