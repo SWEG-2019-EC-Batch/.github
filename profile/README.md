@@ -1,4 +1,3 @@
-
 <a name="readme-top"></a>
 
 <div align="center">
@@ -22,7 +21,25 @@
 - [C++ Developer Roadmap](https://github.com/SwEg21-03-07-FoP/CppDeveloperRoadmap)
 
 - [How to Become Effective in my Learning, and Career](https://github.com/SwEg21-03-07-FoP/Professional-skills) 
-  
+
+### 📖 E-Books
+<ul>
+  <li><a href="https://drive.google.com/file/d/12djrPpU81fPHS7H5URmiNV5JQevmD45E/view?usp=sharing">Flowchart and Algorithm Basics: The Art of Programming </a></li>
+  <li><a href="https://drive.google.com/file/d/1TorMQc4A7xtMgYTuZggGBAgTyoQXeKw3/view?usp=sharing">Problem Solving With C++ (10th edition) </a></li>
+  <li><a href="https://drive.google.com/file/d/1TrjwoFtCZzzt5oPBdEbo0zRAJ2q2FXO6/view?usp=sharing">An Introduction to Programming with C++ (8th Edition) </a></li>
+  <li><a href="https://drive.google.com/file/d/1aj2KWvBP17GH7aDcx-82BCfeY6doGKVo/view?usp=sharing">C++ How to program, (10th, Global Edition) </a></li>
+  <li><a href="https://drive.google.com/file/d/1GLNdS2NDpqg1RNn_XB9MlXcHJDIWPIyY/view?usp=sharing">C++ For Engineers and Scientists (3rd edition) </a></li>
+</ul> 
+
+### 🌐 Online Resources
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/cpp/c-plus-plus/"> GeeksforGeeks </a></li>
+  <li><a href="https://www.w3schools.com/cpp/default.asp"> W3schools </a></li>
+  <li><a href="https://programiz.pro/resources/cpp"> Programiz </a></li>
+  <li><a href="https://www.hackerrank.com/domains/cpp"> Hackerrank </a></li>
+  <li><a href="https://cplusplus.com/doc/tutorial/"> Cplusplus </a></li>
+</ul>
+
 ### Chapter-1: Basics of Program Development
 
 #### 📝 <a href="https://sweg21-03-07-fop.github.io/FoP_I_Chapter_One/"> Lecture Note </a>
