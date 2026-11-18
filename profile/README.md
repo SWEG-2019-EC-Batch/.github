@@ -73,12 +73,20 @@
   <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-2%20Basic%20Programming%20Constructors/6%20temprature%20convertor.cpp">Exercise 2.7 - Temprature Convertor </a></li>
 </ul>
 
-### Chapter-3: Flow Controls
+<h2> Chapter-3: Flow Controls </h2>
 
-#### <a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.0%20summary%20of%20chapter.md">Chapter Summary Note </a>
+#### 📝 <a href="https://sweg21-03-07-fop.github.io/FoP_I_Chapter_Three/"> Lecture Note </a>
+#### 📋 <a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.0%20summary%20of%20chapter.md">Chapter Summary Note </a>
+#### 💻 <a href="#"> Practice Exercises </a>  
+<ul>
+  <li><a href="#">Practical Excercise </a></li>
+  <li><a href="#">Exercises Solutions</a></li>
+</ul>
 
+#### ❓<a href="#">Ch2 Revision Quiz - MCQ </a>  
+
+### More Practical Examples
 ##### Exercise 3.1
-
 <ul>
      <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.1 BMI calculator V2(a).cpp">BMI calculator V2(a) - using Nested if ... else if Stmts</a></li>
      <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-3%20Flow%20Controls/3.1 BMI calculator V2(b).cpp">BMI calculator V2(b) - using if ... else if stmts </a></li>
